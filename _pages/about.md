@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: UESTC, Chengdu, China. Contact: junyi_wang@std.uestc.edu.cn
+subtitle: "UESTC, Chengdu, China. Contact: junyi_wang@std.uestc.edu.cn"
 
 profile:
   align: right
@@ -25,9 +25,9 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Junyi Wang is currently a Master’s student at the School of Information and Communication Engineering, under the supervision of Prof. Fan Zhang, specializing in Medical Image Processing. 
-He is also undertaking a research internship under the mentorship of Dr. Le Lu, Ants Group, focusing on cardiac image synthesis and diagnosis. 
-He has received the **Graduate Student National Scholarship** of China and was recognized as one of the **“Top 10 Outstanding Students”** of the School. From 2019 to 2023, he completed his Bachelor’s degree at Beijing Normal University.
+Junyi Wang is currently a Master’s student at the School of Information and Communication Engineering, under the supervision of Prof. Fan Zhang, specializing in Medical Image Processing.
+He is also undertaking a research internship under the mentorship of Dr. Le Lu, Ants Group, focusing on cardiac image synthesis and diagnosis.
+He has received the **Graduate Student National Scholarship** of China and was recognized as one of the **“Top 10 Outstanding Students”** of the School. From 2019 to 2023, he completed his Bachelor’s degree, major in Psychology, at Beijing Normal University.
 
 His primary research interest lies in Medical Image Registration and its potential to advance precision medicine.
 
