@@ -27,8 +27,7 @@
       "url": "http://www.antgroup.com/",
       "startDate": "2025-08",
       "endDate": "now",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Focusing on cardiac image synthesis and diagnosis in collaboration with Zhejiang 2nd Hospital."
     }
   ],
   "education": [
@@ -53,13 +52,35 @@
 
   ],
   "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+      {
+        "title": "\"Top 10 Outstanding Students\" of the School of Information and Communication Engineering, UESTC",
+        "date": "2025-09",
+        "awarder": "School of Information and Communication Engineering, UESTC",
+        "url": "https://ice.uestc.edu.cn/",
+        "summary": "The \"Top 10 Outstanding Students\" award recognizes students who have excelled in academics, research, and extracurricular activities."
+      },  
+      {
+        "title": "\"Challenge Cup\" Grand Prize",
+        "date": "2024-11",
+        "awarder": "\"Challenge Cup\" Organizing Committee",
+        "url": "https://www.tiaozhanbei.net/",
+        "summary": "The \"Challenge Cup\" is a prestigious national competition in China that encourages innovation and entrepreneurship among university students."
+      }
+      {
+        "title": "1st Place in ReMIND @ MICCAI Learn2Reg Challenge",
+        "date": "2024-10",
+        "awarder": "MICCAI Society",
+        "url": "https://www.miccai.org/",
+        "summary": "Win the first place in the ReMIND @ MICCAI Learn2Reg Challenge, a competition focused on multi-modal registration of ultrasound and MR images."
+      },
+      {
+        "title": "Graduate Student National Scholarship of China",
+        "date": "2024-10",
+        "awarder": "Ministry of Education of the People's Republic of China",
+        "url": "http://en.moe.gov.cn/",
+        "summary": "The Graduate Student National Scholarship is awarded to graduate students who have demonstrated outstanding academic performance and research potential."
+      }
+      
   ],
   "languages": [
     {
@@ -86,8 +107,7 @@
   "projects": [
     {
       "name": "AR Brain Surgical Navigation System",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "summary": "An augmented reality (AR) surgical navigation system designed for craniotomy procedures, integrating preoperative MRI data with real-time 3D anatomical models and intraoperative endoscopic video streams to provide surgeons with enhanced spatial awareness and improved surgical precision.",
       "startDate": "2024-06",
       "endDate": "now",
       "url": "https://github.com/eiroW/BrainTracking.git"
