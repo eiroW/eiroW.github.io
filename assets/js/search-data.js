@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-",
+    title: "",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -386,7 +386,10 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-paper-is-accepted-as-the-miccai-spotlight",
+      },{id: "news-win-the-1st-place-in-remind2reg-miccai-2024-learn2reg",
+          title: 'Win the 1st Place in ReMIND2Reg @ MICCAI 2024 Learn2reg',
+          description: "",
+          section: "News",},{id: "news-a-paper-is-accepted-as-the-miccai-spotlight",
           title: 'A paper is accepted as the MICCAI spotlight',
           description: "",
           section: "News",},{id: "projects-project-1",
