@@ -25,10 +25,8 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Junyi Wang is currently a Master's student at the School of Information and Communication Engineering, under the supervision of Prof. Fan Zhang, specializing in Medical Image Processing.
-He is also undertaking a research internship under the mentorship of Dr. Le Lu, Ants Group, focusing on cardiac image synthesis and diagnosis.
-He has received the **Graduate Student National Scholarship** of China and was recognized as one of the **"Top 10 Outstanding Students"** of the School. From 2019 to 2023, he completed his Bachelor's degree, major in Psychology, at Beijing Normal University.
+Junyi Wang is currently a Master's student at the School of Information and Communication Engineering, under the supervision of Prof. Fan Zhang, specializing in Medical Image Processing. His  research focuses on medical image registration, with the broader goal of advancing precision medicine through intelligent imaging technologies. During the Master's program, he has received the **Graduate Student National Scholarship** of China and was recognized as one of the **"Top 10 Outstanding Students"** of the School.
 
-His primary research interest lies in Medical Image Registration and its potential to advance precision medicine.
+To gain industry experience and foster greater collaboration with healthcare institutions, he is currently undertaking a Research Internship under the mentorship of Dr. Le Lu at Ants Group, focusing on cardiac image synthesis and diagnosis in collaboration with Zhejiang 2nd Hospital.
 
-Junyi has also demonstrated strong leadership in academic competitions, earning top honors such as the "Challenge Cup" Grand Prize and first place in the MICCAI Learn2Reg Challenge.
+Junyi has also demonstrated exceptional performance in academic competitions, earning prestigious honors including first place in the MICCAI Learn2Reg Challenge and the "Challenge Cup" Grand Prize.
