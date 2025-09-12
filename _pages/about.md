@@ -25,14 +25,10 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Junyi Wang is a master's student at the School of Information and Communication Engineering, specializing in medical image registration. He has served as a core researcher in multiple National Key R&D Programs and has collaborated extensively with renowned hospitals including Brigham and Women’s Hospital, Zhejiang University Second Hospital, and the PLA General Hospital.
+Junyi Wang is currently a Master’s student at the School of Information and Communication Engineering, under the supervision of Prof. Fan Zhang, specializing in Medical Image Processing. 
+He is also undertaking a research internship under the mentorship of Dr. Le Lu, Ants Group, focusing on cardiac image synthesis and diagnosis. 
+He has received the **Graduate Student National Scholarship** of China and was recognized as one of the **“Top 10 Outstanding Students”** of the School. From 2019 to 2023, he completed his Bachelor’s degree at Beijing Normal University.
 
-His research has led to publications in leading journals such as MedAI and NeuroImage, as well as four papers at international conferences including MICCAI, ISBI, and OHBM, with one paper selected for MICCAI 2025 Spotlight.  
+His primary research interest lies in Medical Image Registration and its potential to advance precision medicine.
 
-Junyi has also demonstrated strong leadership in academic competitions, earning top honors such as the “Challenge Cup” Grand Prize and first place in the MICCAI Learn2Reg Challenge. His work bridges cutting-edge algorithms with clinical applications, aiming to advance precision medicine through intelligent medical imaging technologies.
-
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+Junyi has also demonstrated strong leadership in academic competitions, earning top honors such as the “Challenge Cup” Grand Prize and first place in the MICCAI Learn2Reg Challenge.
