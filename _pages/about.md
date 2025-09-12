@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Chengdu China. junyiwang. Motto. Etc.
+subtitle: UESTC, Chengdu, China. Contact: junyi_wang@std.uestc.edu.cn
 
 profile:
   align: right
