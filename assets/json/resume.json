@@ -99,8 +99,10 @@
       "name": "Medical Image Registration",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Brain Image Registrtaion",
-        "Cardiac Image Registration"
+        "Surgical Navigation",
+        "MultiModality Alignment",
+        "Group Analysis",
+        "Other Clinic Applications"
       ]
     }
   ],

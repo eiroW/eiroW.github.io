@@ -30,3 +30,10 @@ Junyi Wang is currently a Master's student at the School of Information and Comm
 To gain industry experience and foster greater collaboration with healthcare institutions, he is currently undertaking a Research Internship under the mentorship of **Dr. Le Lu** at Ant Group, focusing on cardiac image synthesis and diagnosis in collaboration with Zhejiang 2nd Hospital.
 
 Junyi has also demonstrated exceptional performance in academic competitions, earning prestigious honors including first place in the MICCAI Learn2Reg Challenge and the "Challenge Cup" Grand Prize.
+
+His research focuses on **Medical Image Registration** and its applications in clinical practice, including:
+
+- **Surgical Navigation**: Real-time registration for intraoperative guidance systems
+- **Multi-Modal Alignment**: Registering different imaging modalities (CT, MRI, ultrasound) for comprehensive diagnosis
+- **Group Analysis**: Population-based registration for statistical shape modeling and atlas construction  
+- **Other Clinical Applications**: Translating registration techniques into practical healthcare solutions
