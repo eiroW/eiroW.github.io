@@ -27,9 +27,9 @@ announcements:
 
 Junyi Wang is currently a Master's student at the School of Information and Communication Engineering, under the supervision of **Prof. Fan Zhang**, specializing in Medical Image Processing. His research focuses on medical image registration, with the broader goal of advancing precision medicine through intelligent imaging technologies. During the Master's program, he has received the **Graduate Student National Scholarship** of China and was recognized as one of the **"Top 10 Outstanding Students"** of the School.
 
-To gain industry experience and foster greater collaboration with healthcare institutions, he is currently undertaking a Research Internship under the mentorship of **Dr. Le Lu** at Ant Group, focusing on cardiac image synthesis and diagnosis
+**Work Experiments**: To gain industry experience and foster greater collaboration with healthcare institutions, he is currently undertaking a Research Internship under the mentorship of **Dr. Le Lu** at Ant Group, focusing on cardiac image synthesis and diagnosis.
 
-Junyi has also demonstrated exceptional performance in academic competitions, earning prestigious honors including first place in the MICCAI Learn2Reg Challenge and the "Challenge Cup" Grand Prize.
+**Academic Achievements**: Junyi has also demonstrated exceptional performance in academic competitions, earning prestigious honors including first place in the MICCAI Learn2Reg Challenge and the "Challenge Cup" Grand Prize. And several of his papers have been published in top-tier conferences and journals such as MICCAI and Neuroimage.
 
 His research focuses on **Medical Image Registration** and its applications in clinical practice, including:
 
