@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Medical Image Registration, UESTC. Contact: <a href="mailto:junyi_wang@std.uestc.edu.cn">junyi_wang@std.uestc.edu.cn</a>
 
