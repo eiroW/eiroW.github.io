@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: UESTC, Chengdu, China. Contact: <a href="mailto:junyi_wang@std.uestc.edu.cn">junyi_wang@std.uestc.edu.cn</a>
+subtitle: Medical Image Registration, UESTC. Contact: <a href="mailto:junyi_wang@std.uestc.edu.cn">junyi_wang@std.uestc.edu.cn</a>
 
 profile:
   align: right
