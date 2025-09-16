@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper is accepted as the MICCAI spotlight
+One paper has been Early Accepted and selected as the MICCAI *[spotlight](https://doi.org/10.48550/arXiv.2503.02481)* presentation.

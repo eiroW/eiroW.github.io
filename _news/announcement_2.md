@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-10-08
+date: 2025-09-21
 inline: true
 related_posts: false
 ---
 
-Win the 1st Place in ReMIND2Reg @ MICCAI 2024 Learn2reg
+The paper [DDTemplate](https://doi.org/10.1016/j.neuroimage.2025.121401) has been accepted in NeuroImage.
